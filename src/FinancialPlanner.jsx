@@ -129,9 +129,11 @@ const FinancialPlanner = () => {
         <div className="bg-white rounded-2xl shadow-xl p-8 border-t-4 border-green-600">
           <div className="flex items-center justify-between flex-wrap gap-6">
             <div className="flex items-center gap-6">
-              <div className="w-20 h-20 bg-gradient-to-br from-green-600 to-emerald-600 rounded-xl flex items-center justify-center shadow-lg">
-                <span className="text-white font-bold text-2xl">IM</span>
-              </div>
+              <img
+                src="image/Logo-impact.png"
+                alt="Logo Impact Mais"
+                className="w-20 h-20 object-contain"
+              />
               <div>
                 <h1 className="text-4xl font-bold text-gray-800 mb-2">Impact Mais</h1>
                 <p className="text-xl text-green-600 font-semibold">Planejamento Financeiro Estratégico</p>

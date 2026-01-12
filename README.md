@@ -161,4 +161,4 @@ Este projeto é proprietário do Impact Mais.
 
 ---
 
-**Desenvolvido com para Impact Mais**
+**Desenvolvido por equipe Impact Mais**

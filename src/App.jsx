@@ -1,6 +1,6 @@
 import React from 'react';
 import FinancialPlanner from './FinancialPlanner';
-import './App.css';
+
 
 function App() {
   return (
