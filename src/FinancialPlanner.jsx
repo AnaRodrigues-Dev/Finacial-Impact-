@@ -130,7 +130,7 @@ const FinancialPlanner = () => {
           <div className="flex items-center justify-between flex-wrap gap-6">
             <div className="flex items-center gap-6">
               <img
-                src="image/Logo-impact.png"
+                src="image/logo.png"
                 alt="Logo Impact Mais"
                 className="w-20 h-20 object-contain"
               />
